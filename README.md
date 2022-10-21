@@ -1,16 +1,19 @@
-# rootallyai_task
+<h1 align="center">Flutter Rehab Session Tracker</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="https://github.com/Mufaddal5253110/Rehab-Session-Tracker/stargazers">
+    <img src="https://img.shields.io/github/stars/Mufaddal5253110/Rehab-Session-Tracker.svg?style=for-the-badge">
+  </a>
+</p>
 
-## Getting Started
+## Overview
+DEMO : https://youtu.be/4Y1ALTvQTuA
+<p align="center">
+  <a href="https://youtu.be/4Y1ALTvQTuA">
+    <img src="https://user-images.githubusercontent.com/60619133/197251389-4f0cf4aa-6bf8-4a5d-9392-0a5088984b6a.jpg", width="780px">
+  </a>
+</p>
 
-This project is a starting point for a Flutter application.
+## Contributing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to take the time to make this project better, please read the Todo first and try to complete them. Then, you can open a new [issue](https://github.com/Mufaddal5253110/Rehab-Session-Tracker/issues/new/choose), of a [pull request](https://github.com/Mufaddal5253110/Rehab-Session-Tracker/compare).
